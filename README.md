@@ -24,7 +24,17 @@ It is a beginner-friendly project with real-world relevance, demonstrating skill
 - **Flask**: Web framework for the frontend and backend  
 - **scikit-learn**: ML library for TF-IDF and Logistic Regression  
 - **HTML/CSS**: Frontend templates  
-- **Dataset**: [FakeNewsNet](https://www.kaggle.com/datasets)  
+- **Dataset**: [FakeNewsNet](https://www.kaggle.com/datasets)
+
+---
+
+## Model Performance
+
+Model: Logistic Regression with TF-IDF features
+
+Dataset: FakeNewsNet
+
+Accuracy: ~83.7% on test data
 
 ---
 
@@ -33,6 +43,7 @@ It is a beginner-friendly project with real-world relevance, demonstrating skill
 
 <img width="905" height="231" alt="Screenshot 2025-10-20 at 11 36 49 AM" src="https://github.com/user-attachments/assets/1fe330c4-84e8-4108-8c0d-db20e5e8d4bc" />
 
+---
 
 ## Installation
 
